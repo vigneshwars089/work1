@@ -1,0 +1,37 @@
+.wrap{
+  background-color: blue;
+margin:auto;
+width:80%;
+min-width: 600px;
+}
+.content, aside{
+  height: 600px;
+}
+.content
+{
+  background-color: red;
+float:left;
+width:80%;
+}
+
+
+aside
+{
+  background-color: brown;
+float:right;
+width: 20%;
+
+
+}
+aside h1{
+  padding-top: 430px;
+}
+aside ul{
+  list-style: none;
+  padding-left: 10px;
+
+}
+footer{
+  text-align: center;
+  clear: both;
+}

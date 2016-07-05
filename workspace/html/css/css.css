@@ -1,0 +1,13 @@
+a{
+color:pink; text-decoration:none;
+}
+p{
+  font-family: sans-serif,monospace;
+}
+div
+{
+  margin-left:auto;
+  background: grey;
+  width:600px;
+align-items: baseline;
+}
